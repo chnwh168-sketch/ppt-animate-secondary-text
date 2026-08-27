@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 二级文字逐句动画"
+  short_description: "为PPT二级文字设置逐次点击出现动画并保持版式不变"
+  default_prompt: "使用 $ppt-animate-secondary-text 为现有PPT从指定页开始添加二级文字逐句点击出现动画，并保持其他元素不动。"
